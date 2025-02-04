@@ -98,3 +98,5 @@ Readability of floating text elements
 
 ***7. Conclusion***
 This AR/VR food delivery app interface successfully blends futuristic design with usability to create an engaging and interactive dining experience. By incorporating 3D food visualization, real-time tracking, holographic UI, and immersive interactions, this design represents the next evolution in food delivery apps.
+
+![Image](https://github.com/user-attachments/assets/6b737403-c40e-489f-9acd-d705f835da60)
