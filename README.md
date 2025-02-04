@@ -16,7 +16,7 @@
 
 ***Task 4: AR/VR INTERFACE DESIGN***
 
-Task Preparation Description – AR/VR Food Delivery App UI/UX Design
+AR/VR Food Delivery App UI/UX Design
 
 ***1. Introduction***
 This task involves designing a futuristic AR/VR food delivery application interface using Figma. The goal is to create an immersive and intuitive user experience that leverages augmented and virtual reality for seamless interaction with food ordering, delivery tracking, and personalization options.
